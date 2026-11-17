@@ -7,7 +7,7 @@ title: GymTracker - Privacy
 # Informativa sulla privacy di GymTracker
 
 In vigore dal 16 novembre 2026. Sviluppatore: Miky01. Contatto:
-michelebridi01@gmail.com.
+gymtracker.apps@gmail.com.
 
 ## In breve
 
@@ -98,7 +98,7 @@ cancelli tu; dei backup automatici l'app tiene gli ultimi 10 e rimuove i più ve
 
 I dati sono già sul tuo dispositivo: puoi vederli, correggerli, esportarli (il backup) e
 cancellarli (dall'app o disinstallandola). Poiché non ricevo i tuoi dati, non ho niente da
-consegnarti o cancellare per tuo conto. Per qualunque domanda: michelebridi01@gmail.com.
+consegnarti o cancellare per tuo conto. Per qualunque domanda: gymtracker.apps@gmail.com.
 
 ## Minori
 
@@ -116,7 +116,7 @@ versione che lo cambia, con una nuova data di entrata in vigore.
 # GymTracker privacy policy
 
 Effective 16 November 2026. Developer: Miky01. Contact:
-michelebridi01@gmail.com.
+gymtracker.apps@gmail.com.
 
 ## In short
 
@@ -207,7 +207,7 @@ app keeps the latest 10 automatic backups and removes older ones, only inside th
 
 The data is already on your device: you can see it, correct it, export it (the backup) and delete
 it (in the app or by uninstalling). Because I do not receive your data, there is nothing for me to
-hand over or delete on your behalf. For any question: michelebridi01@gmail.com.
+hand over or delete on your behalf. For any question: gymtracker.apps@gmail.com.
 
 ## Children
 
